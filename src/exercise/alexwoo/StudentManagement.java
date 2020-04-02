@@ -13,7 +13,7 @@ public class StudentManagement {
         int idStudent = scanner.nextInt();
         System.out.println("Nhập Tên Sinh Viên: ");
         String name = scanner.next();
-        System.out.println("Giới Tính: Nam? True-False: ");
+        System.out.println("Giới Tính: Nam=True><Nu=False: ");
         boolean isMan = scanner.nextBoolean();
         scanner.nextLine();
         System.out.println("Date of birthday: ");

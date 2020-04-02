@@ -55,7 +55,6 @@ public class Person {
             return "Women";
     }
 
-    @Override
     public String toString() {
         return  " Họ Tên: " + getName()
                 + " Ngày Sinh: " + getDateOfBirth()
